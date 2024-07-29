@@ -1,4 +1,5 @@
 project "DirectXTK"
+    toolset "v143"
 	kind "StaticLib"
 	language "C++"
 	characterset "MBCS"
